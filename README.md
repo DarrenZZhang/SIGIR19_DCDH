@@ -1,5 +1,5 @@
-# Source code for paper "Deep Collaborative Discrete Hashing with Semantic-Invariant Structure"
-Published in The 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2019. 
+## Source code for Deep Collaborative Discrete Hashing
+"Deep Collaborative Discrete Hashing with Semantic-Invariant Structure", Published in The 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2019. 
 
 #### Implementation platform: 
 PyTorch 1.0.1
