@@ -9,9 +9,9 @@ Pytorch 1.1
 ####Datasets
 We also release the train/query split for the following datasets.
 
-\item CIFAR-10  
-MIRFlickr-25k  
-NUS-WIDE  
+* CIFAR-10  
+* MIRFlickr-25k  
+* NUS-WIDE  
 
 ####Training
 The general command for training is,
