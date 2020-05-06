@@ -11,7 +11,6 @@ We also release the train/query split for the following datasets.
 
 * CIFAR-10  
 * MIRFlickr-25k  
-* NUS-WIDE  
 
 #### Training
 The general command for training is
