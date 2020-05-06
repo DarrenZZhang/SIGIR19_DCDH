@@ -3,17 +3,17 @@
 "Deep Collaborative Discrete Hashing with Semantic-Invariant Structure", Published in The 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2019. 
 
 #### Implementation platform: 
-Python 3.6  
-Pytorch 1.1
+* Python 3.6  
+* Pytorch 1.1
 
-####Datasets
+#### Datasets
 We also release the train/query split for the following datasets.
 
 * CIFAR-10  
 * MIRFlickr-25k  
 * NUS-WIDE  
 
-####Training
+#### Training
 The general command for training is,
 
 python3 DCDH_Flickr.py
